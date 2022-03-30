@@ -8,6 +8,7 @@ description: Part 7, Chapter 1 (Galaxies) of the course lecture notes. The lectu
   of publication, only lecture notes for sessions 1 through 11 were available.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-902-astrophysics-ii-fall-2004/d3e3b3c1cf354bd27a2d006cd0d0bbe0_lec7.pdf
 file_type: application/pdf
+parent_uid: 71275da2-27cc-624e-d06f-7bd0fe95ec01
 resourcetype: Document
 title: lec7.pdf
 uid: d3e3b3c1-cf35-4bd2-7a2d-006cd0d0bbe0

@@ -8,6 +8,7 @@ description: Part 12, Chapter 1 (Galaxies) of the course lecture notes. The lect
   of publication, only lecture notes for sessions 1 through 11 were available.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-902-astrophysics-ii-fall-2004/edc32af0ab177def26de11ea73d6844f_lec12.pdf
 file_type: application/pdf
+parent_uid: 71275da2-27cc-624e-d06f-7bd0fe95ec01
 resourcetype: Document
 title: lec12.pdf
 uid: edc32af0-ab17-7def-26de-11ea73d6844f

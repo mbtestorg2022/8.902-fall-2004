@@ -8,6 +8,7 @@ description: Part 10, Chapter 1 (Galaxies) of the course lecture notes. The lect
   of publication, only lecture notes for sessions 1 through 11 were available.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-902-astrophysics-ii-fall-2004/f79268ad526f5b4aef91f6343bf86bd5_lec10.pdf
 file_type: application/pdf
+parent_uid: 71275da2-27cc-624e-d06f-7bd0fe95ec01
 resourcetype: Document
 title: lec10.pdf
 uid: f79268ad-526f-5b4a-ef91-f6343bf86bd5
